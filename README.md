@@ -1,4 +1,4 @@
-Readme to run Geometric tracking control for quadrotor on SE(3).
+Readme to run Geometric tracking control for quadrotor on SE(3).   
 IEEE Paper : https://ieeexplore.ieee.org/document/5717652
 
 
